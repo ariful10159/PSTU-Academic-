@@ -72,12 +72,7 @@ iv. MOV RAX, RCX
 
 ---
 
-**2.** What is the difference between an intersegment and intrasegment jump?
-Show which JMP instruction assembles (short, near, or far) if the JMP THERE instruction is stored at memory address `10000H` and the address of THERE is:
-i. 10020H
-ii. 11000H
-iii. 0FFFEH
-iv. 30000H
+
 
 ---
 
@@ -151,3 +146,4 @@ i. How does 82C55 can be programmed?
 ii. Distinguish among the various modes of operation of 82C55.
 
 ---
+
